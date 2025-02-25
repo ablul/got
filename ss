@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Basic HTML Page</title>
 </head>
 <body>
-    <h1>higfdfdgfdgfdgfdg sfdgdgfdgd</h1><p>gfgfvxdfvd</p>
-
+    <h1>Welcome to My Website</h1>
+    <p>This is a basic .</p>
 </body>
 </html>
